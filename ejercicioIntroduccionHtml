@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title>"Ejercicio de introduccion a HTML en OpenBootcamp"</title>
+
+    <body>
+    <div>
+        <p>Este es mi primer comentario de dos líneas</p>
+        <span>Aprendiendo a documentar mi código con OpenBootcamp</span>
+    </div>
+    <div>
+        <ul>
+            <h2>Lista desordenada de mis 3 videos favoritos de youtube</h2>
+            <li><a href="https://www.youtube.com/watch?v=4y33h81phKU">Hans Zimmer - Interstellar - Main Theme (Piano Version) + Sheet Music</a></li>
+            <li><a href="https://www.youtube.com/watch?v=RsQjC5zVnt8">Phantogram - Fall In Love</a></li>
+            <li><a href="https://www.youtube.com/watch?v=CxwJrzEdw1U&t=167s">Norway 4K - Scenic Relaxation Film with Calming Music</a></li>
+        </ul>
+    </div>
+    </body>
+</head>
